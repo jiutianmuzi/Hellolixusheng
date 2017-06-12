@@ -1,3 +1,3 @@
-# Hellolixusheng
-learn repository
-如何使用markdown
+## linux3+1开篇
+### 自我介绍
+### 第一课
